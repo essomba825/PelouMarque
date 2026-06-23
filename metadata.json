@@ -1,0 +1,6 @@
+{
+  "name": "Pelou - Marques",
+  "description": "Portail officiel de Pelou destiné aux marques pour lutter contre la contrefaçon, gérer les articles, enregistrer les codes-barres en masse et certifier l'authenticité des produits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
