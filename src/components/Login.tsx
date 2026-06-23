@@ -376,7 +376,7 @@ export default function Login({ onLoginSuccess, onNavigateToScan }: LoginProps) 
               whileHover={{ scale: 1.05, rotate: 5 }}
               transition={{ type: "spring", stiffness: 300 }}
             >
-              <img src="/src/assets/images/pelou_logo_1782152421292.jpg" alt="Pelou Logo" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+              <img src="/pelou_logo_1782152421292.jpg" alt="Pelou Logo" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
             </motion.div>
             <span className="text-white font-semibold tracking-widest uppercase text-sm xl:text-base font-display">
               Pelou Anti-Contrefaçon
@@ -429,7 +429,7 @@ export default function Login({ onLoginSuccess, onNavigateToScan }: LoginProps) 
             transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
           >
             <img 
-              src="/src/assets/images/pelou_logo_1782152421292.jpg" 
+              src="/pelou_logo_1782152421292.jpg" 
               alt="Pelou Corporate Emblem" 
               className="w-full h-full object-cover" 
               referrerPolicy="no-referrer"
@@ -531,7 +531,7 @@ export default function Login({ onLoginSuccess, onNavigateToScan }: LoginProps) 
         <div className="flex justify-between items-center lg:hidden mb-6 relative z-10">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 rounded-lg overflow-hidden shadow-sm shadow-indigo-500/20">
-              <img src="/src/assets/images/pelou_logo_1782152421292.jpg" alt="Pelou" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+              <img src="/pelou_logo_1782152421292.jpg" alt="Pelou" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
             </div>
             <span className="text-lg font-bold tracking-tight text-slate-900 font-display">Pelou</span>
           </div>

@@ -229,7 +229,7 @@ export default function SimulatorScan() {
                 <div className="text-center space-y-5">
                   <div className="w-16 h-16 rounded-2xl overflow-hidden mx-auto shadow-lg border border-slate-800 flex items-center justify-center">
                     <img 
-                      src="/src/assets/images/pelou_logo_1782152421292.jpg" 
+                      src="/pelou_logo_1782152421292.jpg" 
                       alt="Pelou Logo" 
                       className="w-full h-full object-cover" 
                       referrerPolicy="no-referrer" 

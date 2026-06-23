@@ -31,7 +31,7 @@ export default function Sidebar({ currentUser, currentBrand, activeTab, setActiv
           <div className="flex items-center gap-2.5">
             <div className="w-8 h-8 rounded-lg overflow-hidden shadow-md shadow-indigo-650/40 border border-slate-800 flex-shrink-0">
               <img 
-                src="/src/assets/images/pelou_logo_1782152421292.jpg" 
+                src="/pelou_logo_1782152421292.jpg" 
                 alt="Pelou Logo" 
                 className="w-full h-full object-cover" 
                 referrerPolicy="no-referrer" 

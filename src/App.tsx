@@ -118,7 +118,7 @@ export default function App() {
             <div className="flex items-center gap-2.5">
               <div className="w-7 h-7 rounded-md overflow-hidden shadow-sm shadow-indigo-600/30">
                 <img 
-                  src="/src/assets/images/pelou_logo_1782152421292.jpg" 
+                  src="/pelou_logo_1782152421292.jpg" 
                   alt="Pelou Logo" 
                   className="w-full h-full object-cover" 
                   referrerPolicy="no-referrer" 
